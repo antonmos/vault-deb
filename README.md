@@ -15,7 +15,7 @@ the `VERSION` variable, e.g.
 
 Ubuntu packages built regularly with this Makefile are available at
 [this Launchpad PPA](https://launchpad.net/~buzer/+archive/ubuntu/vault). To
-install the latest Consul packages on your Ubuntu system you just need to add the
+install the latest Vault packages on your Ubuntu system you just need to add the
 repository and update the local sources:
 
     $ sudo apt-add-repository ppa:buzer/vault
